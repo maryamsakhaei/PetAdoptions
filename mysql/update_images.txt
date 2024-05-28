@@ -1,0 +1,8 @@
+Copy-Paste the following in the pet table:
+
+UPDATE `pet` SET `image`='64dd36ca5db2a.jpg' WHERE `id`=1;
+UPDATE `pet` SET `image`='64dd39b0888bc.jpg' WHERE `id`=2;
+UPDATE `pet` SET `image`='64dd3a10da520.jpg' WHERE `id`=3;
+UPDATE `pet` SET `image`='64dd3a854a5ce.jpg' WHERE `id`=4;
+UPDATE `pet` SET `image`='64ddb6886fe5a.jpg' WHERE `id`=5;
+UPDATE `pet` SET `image`='64ddb6eae0830.jpg' WHERE `id`=5;
